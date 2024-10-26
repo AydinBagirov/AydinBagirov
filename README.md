@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AydinBagirov
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently learning Clean Architecture
+- 📫 You can reach me at aydinbagirov219@gmail.com
+- ⚡ KOTLİN - JETPACK COMPOSE -> ANDROİD✨ & IOS✨ & DESKTOP✨
