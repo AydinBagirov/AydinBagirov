@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AydinBagirov
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning Pandas(Python)
+- 👀 I’m interested in Android development.
+- 🌱 I’m currently learning Jetpack Compose(Kotlin)
 - 📫 You can reach me at aydinbagirov219@gmail.com
-- ⚡ Excel - SQL -> Pandas & Power BI & Rlang
+- ⚡ Jetpack Compose & Kotlin & SQL
