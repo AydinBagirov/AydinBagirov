@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AydinBagirov
 - 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Jetpack Compose(Kotlin)
+- 🌱 I’m currently learning Jetpack Compose (Kotlin)
 - 📫 You can reach me at aydinbagirov219@gmail.com
 - ⚡ Jetpack Compose & Kotlin & SQL
