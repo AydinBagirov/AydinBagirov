@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @AydinBagirov
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Jetpack Compose (Kotlin)
-- 📫 You can reach me at aydinbagirov219@gmail.com
-- ⚡ Jetpack Compose & Kotlin & SQL
+# 👋 Hi, I’m Aydin Bagirov
+
+- 👀 **Interested in:** Android Development
+- 🌱 **Currently coding:** Jetpack Compose & Kotlin
+- 💻 **Tech Stack:** Jetpack Compose, Kotlin, SQLite
+- 🏗️ **Architecture:** MVVM
+- 📫 **Contact me:** [aydinbagirov219@gmail.com](mailto:aydinbagirov219@gmail.com)
+- ⚡ **Fun fact:** I love building modern Android apps
